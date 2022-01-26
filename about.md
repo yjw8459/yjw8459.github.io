@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me/me.jpeg
 description: >
-  안녕하세요. 유종원입니다. about.md
+  안녕하세요. 유종원입니다. about.md 
 hide_description: true
 redirect_from:
   - /download/
