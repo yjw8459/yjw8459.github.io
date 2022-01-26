@@ -10,9 +10,11 @@ theme_color: '#ccc'
 description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
+categories:
+  - example2
 ---
 
-# What's New in Hydejack 9.1?
+# 예시 게시물2
 
 What's New in Hydejack 9.1?
 
