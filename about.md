@@ -1,15 +1,14 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me/me.jpeg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  안녕하세요. 유종원입니다. about.md
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-# About
+# About 소개할 수 있는 부분
 
 <!--author-->
 
