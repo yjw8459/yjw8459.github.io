@@ -20,13 +20,12 @@ url:                   https://yjw8459.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Mind Map
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  
 
 # A shorter description for the sidebar.
 tagline:               머리는 차갑게, 가슴은 뜨겁게
@@ -37,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile2.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -51,17 +50,17 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
-  - title:             Subcat
-    url:                /subcat/
+  - title:             Project
+    url:               /project/
+  - title:             Study
+    url:               /study/
+  - title:             etc
+    url:                /etc/
     submenu:
-      - title:          Test1
-        url:            /test1/
-      - title:          Test2
-        url:            /test2/
+      - title:          Etc1
+        url:            /etc1/
+      - title:          Etc2
+        url:            /etc2/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:

@@ -8,11 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    #### 머리는 차갑게, 가슴은 뜨겁게 !<br>
+    열정에 기름 붓기를 좋아하는 의욕 넘치는 개발자 입니다. <br>
+    빠르진 않더라도 확실히 나아가는 사람이 되자라는 생각으로 개발에 임하고 있습니다. <br>
+    비즈니스 문제를 바라보는 시각을 넓게하고 문제를 더 효율적으로 처리하는 사람이 되는 것을 목표하고 있습니다.
 
   # This photo will be used in the about section
   picture:
@@ -26,7 +25,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    # twitter:         <username>
     github:          yjw8459
     email:           ryu01410@gmail.com
     # rss:             https://<url>/feed.xml
