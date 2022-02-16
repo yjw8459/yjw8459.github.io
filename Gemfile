@@ -41,6 +41,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-relative-links"
   gem "jekyll-seo-tag"
+#검색엔진 최적화를 위한 sitemap.xml을 jekyll이 갱신하여 빌드
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
