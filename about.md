@@ -13,7 +13,7 @@ hide_description: true
 <span style="font-size:170%;font-weight:bold"> 유종원
 </span>
 </center>
-<center>Major : Back-End</center>
+<center>Position : Back-End</center>
 
 <!-- <center>Age : 28</center>
 <center>Address : Byeolnae-dong, Namyangju-si, Gyeonggi-do</center> -->
@@ -41,13 +41,18 @@ hide_description: true
     </center>
 
 
+### 자기개발
+
+링크 : https://velog.io/@yjw8459
+깃허브 : 
+
 
 <div class="list-post">
 
   
   
     
-  <h2 class="list-lead"></h2>
+  <h2 class="list-lead"></h2> 
   <ul class="related-posts">
 
     <li class="h6">
